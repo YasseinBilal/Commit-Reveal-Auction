@@ -1,0 +1,3 @@
+[submodule "commit-reveal-auction/lib/forge-std"]
+	path = commit-reveal-auction/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
