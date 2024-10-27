@@ -7,6 +7,6 @@ libs = ["lib"]
 sepolia = "${SEPOLIA_RPC_URL}"
 
 [etherscan]
-sepolia = { key = "WZ8SM82UMWESHER3N4DE8UJ7GFE6Y2MV69" }
+sepolia = { key = "${SEPOLIA_ETHERSCAN_KEY}" }
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
